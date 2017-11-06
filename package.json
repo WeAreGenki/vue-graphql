@@ -1,0 +1,13 @@
+{
+  "name": "vue-graphql",
+  "version": "0.0.0",
+  "description": "todo",
+  "main": "lib/index.js",
+  "repository": "https://github.com/WeAreGenki/vue-graphql",
+  "author": "Max Milton <max@wearegenki.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "graphql-request": "^1.4.0"
+  }
+}
