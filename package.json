@@ -1,13 +1,16 @@
 {
   "name": "vue-graphql",
-  "version": "0.0.0",
-  "description": "todo",
-  "main": "lib/index.js",
+  "version": "0.1.0",
+  "description": "Vue plugin for easy GraphQL requests",
   "repository": "https://github.com/WeAreGenki/vue-graphql",
   "author": "Max Milton <max@wearegenki.com>",
-  "license": "MIT",
-  "private": false,
+  "license": "Apache-2.0",
+  "main": "index.js",
   "dependencies": {
     "graphql-request": "^1.4.0"
+  },
+  "engines": {
+    "node": ">= 8.0.0",
+    "npm": ">= 3.10.0"
   }
 }
