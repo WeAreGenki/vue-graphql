@@ -19,7 +19,7 @@ npm install vue-graphql
 
 ### Add to your app
 
-Typical use is to create a `graphql.js` file which install the plugin. For example if you need an `Authorization` header with every request:
+Typical use is to create a `graphql.js` file which installs the plugin. For example if you need an `Authorization` header with every request:
 
 ```javascript
 import Vue from 'vue';
