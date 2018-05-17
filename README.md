@@ -1,4 +1,10 @@
-# vue-graphql
+<!-- markdownlint-disable first-line-h1 -->
+
+**WARNING: This project is no longer maintained. We decided to migrate from Vue to [Svelte](https://svelte.technology). See [`minna-ui`](https://github.com/WeAreGenki/minna-ui) for our new web UI framework.**
+
+-----
+
+# `vue-graphql`
 
 > Vue plugin for easy GraphQL requests
 
